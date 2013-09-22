@@ -1,4 +1,4 @@
-#I wold camel-case but this is python. :D
+#I would camel-case but this is python. :D
 #Also it's a Sunday. 
 
 
